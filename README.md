@@ -9,4 +9,6 @@ Basta rodar `npm install` e `npm run dev`, e o projeto deve ser executado corret
 
 
 [Prática Guiada](https://stackblitz.com/edit/vitejs-vite-t3rh3c?file=src/App.jsx)
+
+
 [Exercício de fixação](https://stackblitz.com/edit/vitejs-vite-6dakdx?file=src/App.jsx)
